@@ -1,0 +1,3 @@
+com\appHooks\Hooks.class
+com\stepDefinitions\LoginPageSteps.class
+com\runner\InscaleTestRunner.class
